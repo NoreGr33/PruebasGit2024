@@ -1,2 +1,3 @@
-Este es un archivo de texto. 
-Se agrego otro rengl�n de texto.
+1. Este es un archivo de texto. 
+2. Se agrego otro renglón de texto.
+3. Este es un tercer renglón.
