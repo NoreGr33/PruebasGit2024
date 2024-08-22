@@ -7,6 +7,9 @@
 5. X
 6. Y
 7. Z
+8. A
+9. B
+10. C
 '''''''''''''''''''''''''''''
 11.2da. Prueba de fusion 1 de 2
 12.2da. Prueba de fusion 2 de 2
