@@ -8,5 +8,5 @@
 6. Y
 7. Z
 '''''''''''''''''''''''''''''
-8.2da. Prueba de fusion 1 de 2
-9.2da. Prueba de fusion 2 de 2
+11.2da. Prueba de fusion 1 de 2
+12.2da. Prueba de fusion 2 de 2
